@@ -68,4 +68,6 @@ title("Power spectrum");
 
 # RESULT:
 
-![WhatsApp Image 2025-11-23 at 00 19 42_a2bb3811](https://github.com/user-attachments/assets/ab4aa64a-5a1e-4148-8c6f-1b47640c5a11)
+![WhatsApp Image 2025-11-27 at 13 05 35_53a32d6f](https://github.com/user-attachments/assets/df3f25bd-71f4-4e45-b051-b4100b36662c)
+
+
